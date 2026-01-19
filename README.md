@@ -1,7 +1,7 @@
 # ClickTeach Frontend
 
 
-# Hito2 del proyecto final FullStack
+# Hito2 del proyecto final FullStack desafiolatam G91
 # Ecommerce Clicktech
 
 Repositorio: [https://github.com/chermosillal/Frontend](https://github.com/chermosillal/Frontend)
